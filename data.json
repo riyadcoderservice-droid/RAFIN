@@ -1,0 +1,21 @@
+{
+  "servers": {},
+  "users": {
+    "admin": {
+      "joined": "2026-07-09T13:19:43.636383",
+      "password_hash": "ef260e9aa3c673af240d17a2660480361a8e081d1ffeca2a5ed0e3219fc18567"
+    },
+    "rafin": {
+      "joined": "2026-07-18T13:17:28.637272",
+      "password_hash": "f054bc6e0cb27e06e96d2e89ed43cb05ebbe91e25bf63ba960aa27d27fae3463"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#00ff41",
+    "normal_password": "dev",
+    "site_name": "RAFIN TxT BOT",
+    "auto_restart_interval": 300
+  }
+}
